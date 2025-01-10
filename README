@@ -3,6 +3,17 @@ st - simple terminal
 st is a simple terminal emulator for X which sucks less.
 
 
-Installed patches
+installed patches
 ------------
-xresources
+xresources for color sync
+scrollback for scrolling with mouse wheel
+
+
+Note: Uses Hack Nerd Font. Make sure to install it.
+
+
+patch versions
+------------
+st-xresources-20200604-9ba7ecf
+st-scrollback-0.9.2 + mapped mouse scroll keys
+
