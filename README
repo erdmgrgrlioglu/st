@@ -9,7 +9,9 @@ xresources for color sync
 scrollback for scrolling with mouse wheel
 
 
-Note: Uses Hack Nerd Font. Make sure to install it.
+some minor changes
+------------
+see config.def.h (for custom keybinds and colors and fonts)
 
 
 patch versions
